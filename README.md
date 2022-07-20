@@ -1,3 +1,7 @@
-(C) flightgear-polska website by SP-NTX
+FlightGear Polska Website
+https://flightgear-polska.github.io/
 
-also thanks SP-ROM for inspiration for using my skills to create this awesome website
+
+
+(C) flightgear-polska website by SP-NTX and FlightGear Polska
+See LICENSE.txt

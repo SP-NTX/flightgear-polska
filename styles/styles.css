@@ -229,3 +229,39 @@ body {
     height: 2.5em;
     margin-right: 10px;
 }
+
+.pilots-container {
+    display: flex; /* or inline-flex */
+    flex-direction: column;
+}
+
+.pilot-about {
+    padding: 1rem;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.pilot-header {
+    display: flex;
+    align-items:center;
+    margin-bottom: 5px;
+}
+
+.pilot-pic {
+    border-radius: 10px;
+    transition: transform 500ms ease-in-out;
+    transform-origin: left top;
+}
+
+.pilot-name {
+    margin-left: 5px;
+}
+
+.pilot-pic:hover {
+    transform: scale(3.5);
+}
+.pilot-text {
+    display: inline-block;
+}
